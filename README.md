@@ -1,3 +1,7 @@
+# :warning: Notes
+
+This repo is downloaded from WSL2-Linux-Kernel 5.10.60.1' [source code in zip file](https://github.com/microsoft/WSL2-Linux-Kernel/releases/tag/linux-msft-wsl-5.10.60.1). It contains modification of Linux-Kernel configuration for my personal purposes.
+
 # Introduction
 
 The [WSL2-Linux-Kernel][wsl2-kernel] repo contains the kernel source code and
