@@ -1,6 +1,10 @@
 # :warning: Notes
 
-This repo is downloaded from WSL2-Linux-Kernel 5.10.60.1' [source code in zip file](https://github.com/microsoft/WSL2-Linux-Kernel/releases/tag/linux-msft-wsl-5.10.60.1). It contains modification of Linux-Kernel configuration for my personal purposes.
+This repo is downloaded from WSL2-Linux-Kernel 5.10.60.1' [source code in zip file](https://github.com/microsoft/WSL2-Linux-Kernel/releases/tag/linux-msft-wsl-5.10.60.1). It contains modification of Linux-Kernel configuration for personal purposes.
+
+Video Documentation
+
+[![Watch the video](https://img.youtube.com/vi/gEGsy7gdhrQ/0.jpg)](https://www.youtube.com/watch?v=gEGsy7gdhrQ)
 
 # Introduction
 
